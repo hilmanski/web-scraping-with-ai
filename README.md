@@ -1,7 +1,9 @@
 # About
-Experiment on measuring 4 different top AI models on web scraping
+Experiment on measuring differenttop AI models on web parsing.
 
-Old refrence: https://serpapi.com/blog/web-scraping-and-parsing-experiment-with-ai-openai/
+Blog post explanation: https://serpapi.com/blog/web-scraping-with-ai-parsing-html-to-structured-data
+
+Original idea: https://serpapi.com/blog/web-scraping-and-parsing-experiment-with-ai-openai/
 
 ## Usage
 ```
@@ -34,7 +36,7 @@ I provided two data samples in `/data`:
     - check all keys availability
     - check all keys value
 
-- [ ] Write blog post
+- [x] Write blog post
     - Think of "engaging the reader" from start to finish / 
     - think of the overall flow/hook nicely
     - warn on the blog post - why not just copy-paste the raw HTML to fetch (high cost)
